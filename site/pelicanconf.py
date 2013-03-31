@@ -3,20 +3,33 @@
 
 AUTHOR = u'woakas'
 SITENAME = u'woakas'
-SITEURL = ''
+SITEURL = 'http://woakas.pehik.co'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'America/Bogota'
 
 DEFAULT_LANG = u'es'
 
 # Blogroll
-LINKS =  (('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
-          ('Python.org', 'http://python.org'),
-          ('Jinja2', 'http://jinja.pocoo.org'),
-          ('You can modify those links in your config file', '#'),)
 
-# Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+GITHUB_URL = 'http://github.com/woakas/'
+DISQUS_SITENAME = "woakas"
+SOCIAL = (('twitter', 'http://twitter.com/woakas'),
+          ('github', 'http://github.com/woakas'),
+          )
+DEFAULT_PAGINATION = 3
 
-DEFAULT_PAGINATION = 10
+
+FEED_DOMAIN = SITEURL
+
+DISPLAY_PAGES_ON_MENU = True
+
+
+FEED_RSS = 'feeds/all.rss.xml'
+CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
+
+COLOPHON = True
+COLOPHON_TITLE = 'Colophon'
+COLOPHON_CONTENT = 'El día es largo y la vida corta'
+
+THEME = "../theme-built-texts"
+
