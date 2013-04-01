@@ -24,6 +24,9 @@ FEED_DOMAIN = SITEURL
 DISPLAY_PAGES_ON_MENU = True
 
 
+FILES_TO_COPY = (('extra/robots.txt', 'robots.txt'),)
+STATIC_PATHS = ["static", ]
+
 FEED_RSS = 'feeds/all.rss.xml'
 CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
 
