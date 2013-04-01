@@ -1,4 +1,4 @@
-Themes
-======
+Woakas Blog
+===========
 
-git clone git://github.com/getpelican/pelican-themes.git
+Sources for http://woakas.pehik.co
