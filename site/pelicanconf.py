@@ -29,7 +29,6 @@ CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
 
 COLOPHON = True
 COLOPHON_TITLE = 'Colophon'
-COLOPHON_CONTENT = 'El día es largo y la vida corta'
+COLOPHON_CONTENT = 'El d&iacute;a es largo y la vida corta'
 
 THEME = "../theme-built-texts"
-
