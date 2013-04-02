@@ -1,0 +1,30 @@
+Marcha Paro Nacional 23 de Mayo
+###############################
+:date: 2007-05-23 11:03:02 
+:lang: es
+
+Muchas veces nosotros como seres humanos encontramos formas raras y
+diferentes de expresar las cosas y una de ellas es el paro, la
+protesta y las marchas es por eso que el 23 de Mayo de 2007 se
+realizÃ³una marcha hacia la plaza de Bolivar y cada grupo tenia su
+problema, tenía algo que deseaba decir, y la universidad Distrital
+acompaño y estuvo allá simplemente por prosupuesto para seguir en
+funcionamiento. Profesores, estudiantes, funcionarios marchamos por
+presupuesto para que la universidad Distrital pueda seguir en
+funcionamiento ya que con las nuevas reformas la Universidad no podría
+seguir con sus labores academicas.
+
+Este es un video que encontré de aquella Marcha que fue muy pacifica
+pero con mucho sentido Colombiano.
+
+
+.. raw:: html
+  
+  
+  <center> <object width="425" height="350"><param
+  name="movie"
+  value="http://www.youtube.com/v/vArLCh8EamE"></param><param
+  name="wmode" value="transparent"></param><embed
+  src="http://www.youtube.com/v/vArLCh8EamE"
+  type="application/x-shockwave-flash" wmode="transparent" width="425"
+  height="350"></embed></object> </center>
