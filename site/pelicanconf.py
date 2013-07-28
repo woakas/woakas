@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 
-AUTHOR = u'woakas'
+AUTHOR = u'Woakas'
 SITENAME = u'woakas'
 SITEURL = 'http://woakas.pehik.co'
 
@@ -57,5 +57,9 @@ COLOPHON_CONTENT = 'El d&iacute;a es largo y la vida corta'
 # Theme
 THEME = "../theme-built-texts"
 
+# Author
+AUTHOR_SAVE_AS = False
+
 # Analytics
 MIXPANEL_ANALYTICS = "66043383c2f73a32095329de656bc0fc"
+GOOGLE_ANALYTICS = "UA-42789249-1"
