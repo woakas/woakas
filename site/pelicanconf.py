@@ -43,7 +43,8 @@ SITEMAP = {
 }
 
 # Static files
-FILES_TO_COPY = (('extra/robots.txt', 'robots.txt'),)
+FILES_TO_COPY = (('extra/robots.txt', 'robots.txt'),
+                 ('extra/keybase.txt', 'keybase.txt'))
 STATIC_PATHS = ["static", ]
 
 FEED_RSS = 'feeds/all.rss.xml'
