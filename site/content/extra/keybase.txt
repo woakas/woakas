@@ -1,0 +1,70 @@
+==================================================================
+https://keybase.io/woakas
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://woakas.pehik.co
+  * I am woakas (https://keybase.io/woakas) on keybase.
+  * I have a public key with fingerprint 1AC0 2299 9EE1 7E7B 3014  7093 F3D5 4036 886C DCFC
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "1ac022999ee17e7b30147093f3d54036886cdcfc",
+            "host": "keybase.io",
+            "key_id": "f3d54036886cdcfc",
+            "uid": "2afd37e5f656a31668c5b9ad3f2b9100",
+            "username": "woakas"
+        },
+        "service": {
+            "hostname": "woakas.pehik.co",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1414443022,
+    "expire_in": 157680000,
+    "prev": "99015cd70efb80d84669d2b5ec18886d79065569726119cd24033ec047e8e8f6",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owGbwMvMwMH4+aqDWUfOnT+Mpw98TmII8dsgVq2UlJ9SqWRVrZSdCqbSMvPSU4sK
+ijLzSpSslAwTkw2MjCwtLVNTDc1TzZOMDQxNzA0sjdOMU0xNDIzNLCzMklOS05KV
+dJQy8otBOoDGJCUWp+pl5gPFgJz4zBSgKBb1pWAJo8S0FGPzVNM0M1OzRGNDMzOL
+ZNMky8QU4zSjJEtDAwOQwuLUorzE3FSg6vL8xOzEYqVaHSWgWFlmcirIxSCLUeT1
+ClIzMrP1kkEuKCjKL8lPzs8BSmaUlBRYgfSWVBaAFacmxUONiU/KzEsBehyooSy1
+qDgzP0/JyhCoMrkkE2SuoYmhiYmJMTAkdJRSKwoyi1LjM0EqTM3NLAyAAGRNahnQ
+SEtLA0PT5BRzg9S0JAuDFAsTMzPLFKMk09RkQwug11PMLQ3MTE3NLM2NzAwNLZNT
+jIBhYpyabGBinmqRapFmpgTyWGFevpKVKdCZielAI4sz0/MSS0qLUpVquTqZZFgY
+GDkY2FiZQHHHwMUpAIvRJx38/3OshPv3dsRaz/voktofv3T35RMp0af1D01tFLZu
+kgz833529QmWhHt6KYFXeq9N8GVYMOXPh4v3HxouZ78qzShxUu4CW/sTZdNVqxfy
+qpjNLpH9X7KlO0jt0dUF134qGlm/3vYo5BCPVjvvS7NlbMk/DtwtfSkjtOjDl2mT
+grouLpBa3OWSJ6D3oJdP/F6RsPDzxXH5Kybv3bvnen34R4mjd2I0PyvyilUcj7i4
+2bCbdbnt7PULdJfLValPtS7KmNK3xJvng5VS+4zzU9pUv8va/rldaiVruVttB3eI
+zOwjkjYfVVg73N7NvvVHIVym8oPfpN0ln+wf8zw8NOfrGiWOyR9OR7qcX7LzSDSj
+VALbynv/2b7NP774/wT+m50u2pECbJHBLWa3hTkc42U2z14ZcmGPVdBLVZXF21i0
+7/oJKhX3NfleE+M7M7Eu6c9E0838nCKC/JxnqvKVtHujeSVmtOTxh628t6nzv8rL
+U/826Qp8l/v9+pn+oxU3/vVN+rDh9O6KQ72X7gld/yo6a8envuQLE85unCLYa5te
+0rDJ0MFbJ3TtogMaS7NlrknL/Jv4b93sw7ZPnl7tWXogtc5EXHaxg2eqZ55RbJDB
+0byqHxePC3c95zvyXjXLWKCdt1P8hq3Bw7Q5WTfnCD3KjjWx+Zzbb9X4erJa3eU1
+LPd9hIOWre3nVXlfP2PNnFN/uW9L56sLJYTyxxlE5QEA
+=m6xH
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/woakas
+
+==================================================================
+
