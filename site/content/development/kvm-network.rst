@@ -2,7 +2,7 @@ Configuración de Red con KVM y hetzner
 ######################################
 
 :date: 2013-07-25 02:37
-:email: woakas@gmail.com
+:email: woakas@pehik.co
 :tags: kvm, hetzner
 
 Luego de más de un año que teníamos con algunos compañeros un servidor

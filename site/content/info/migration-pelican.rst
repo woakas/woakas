@@ -2,7 +2,7 @@ Migración a Pelican
 ###################
 
 :date: 2013-04-01 06:57
-:email: woakas@gmail.com
+:email: woakas@pehik.co
 :tags: pelican
 
 Luego de haber estado varios meses o quizás años decidiendo a que blog
